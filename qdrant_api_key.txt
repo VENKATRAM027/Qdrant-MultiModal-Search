@@ -1,0 +1,8 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIiwic3ViamVjdCI6ImFwaS1rZXk6ZTIxZmY2MmEtMDU1Ny00NTk3LTkxM2EtNDY0MDJjMjZkMDdiIn0.MJs8XAO99l0Bj8jYClIGJHl1A0mienpXyjWaWGHqX3A
+
+
+
+
+
+
+https://23f812eb-343d-47a5-b7a2-15710b9fed13.eu-west-2-0.aws.cloud.qdrant.io
